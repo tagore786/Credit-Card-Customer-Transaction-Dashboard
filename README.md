@@ -8,6 +8,15 @@ An interactive Power BI dashboard that visualizes revenue, customer segments, an
 The **Credit Card Customer & Transaction Analysis Dashboard** helps financial analysts and decision-makers understand how different customer demographics, transaction types, and credit card categories contribute to business performance. The goal is to provide actionable insights to optimize revenue, improve product offerings, and enhance customer targeting strategies.
 
 
+## Dashboard Previews
+
+### 🔵 Credit Card Customer Report  
+![Customer Report](./CC%20Customer%20Report.png)
+
+### 🔵 Credit Card Transaction Report  
+![Transaction Report](./CC%20Transaction%20Report.png)
+
+
 ## Key Objectives
 
 - Understand credit card usage trends and revenue contribution by user segments.
@@ -66,12 +75,6 @@ The **Credit Card Customer & Transaction Analysis Dashboard** helps financial an
 - **Quarterly Trend**: Q3 sees the highest revenue, useful for seasonal marketing.
 
 
-## Dashboard Previews
 
-### 🔵 Credit Card Customer Report  
-![Customer Report](./CC%20Customer%20Report.png)
-
-### 🔵 Credit Card Transaction Report  
-![Transaction Report](./CC%20Transaction%20Report.png)
 
 
